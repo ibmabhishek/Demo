@@ -1,3 +1,3 @@
 This is small change
 
-Minor change in branch1
+Minor change in branch2
